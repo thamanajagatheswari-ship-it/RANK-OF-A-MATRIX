@@ -21,6 +21,7 @@ To write a python program to find the rank of a matrix
 ### print(sol)
 ## Output:
 <img width="862" height="893" alt="Screenshot 2026-10-13 214306" src="https://github.com/user-attachments/assets/08ff3f3d-5b89-4987-9ee6-9b4a4d8edbe9" />
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
